@@ -30,10 +30,17 @@ h1{
 }
 .button{
     padding: 10px 40px;
-    background-image: linear-gradient(#EB6076,#DF2533);
+    background-image: linear-gradient(to right,#D51E24,#EB6076);
     font-size: 16px;
     font-weight: 600;
     text-decoration: none;
     color: black;
-    border-radius: 20px;
+    border-radius: 25px;
+    margin: 0 25px;
+    box-shadow: 4px 4px 16px #D51E24;
+}
+#second_area{
+    background-image: url('images/shapes/Frame\ 58.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
