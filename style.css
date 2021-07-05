@@ -1,0 +1,39 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+ img{
+    width: 100%;
+}
+.container{
+    width: 1165px;
+    margin: 0 auto;
+}
+#header_area{
+    margin: 5% 0;
+}
+.flexiable_container{
+    display: flex;
+}
+.colored{
+    color: #E6293E;
+}
+.half_width{
+    width: 50%;
+}
+.text{
+    padding: 25px;
+}
+.button{
+    padding: 10px 40px;
+    background-image: linear-gradient(#EB6076,#DF2533);
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    border-radius: 20px;
+}
