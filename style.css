@@ -6,6 +6,9 @@ h1{
     font-size: 50px;
     font-family: 'Yusei Magic', sans-serif;
 }
+p{
+    color: dimgray;
+}
  img{
     width: 100%;
 }
@@ -39,8 +42,22 @@ h1{
     margin: 0 25px;
     box-shadow: 4px 4px 16px #D51E24;
 }
-#second_area{
+#about_area{
     background-image: url('images/shapes/Frame\ 58.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+}
+.top_area{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.food_item_boxes{
+    display: flex;
+}
+.food_item{
+    width: 31%;
+    margin: 0 20px ;
+    padding: 20px;
+    box-shadow: 5px 4px 20px dimgray;
+    border-radius: 30px;
 }
