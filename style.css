@@ -37,7 +37,7 @@ p{
     font-size: 16px;
     font-weight: 600;
     text-decoration: none;
-    color: black;
+    color: white;
     border-radius: 25px;
     margin: 0 25px;
     box-shadow: 4px 4px 16px #D51E24;
@@ -69,18 +69,22 @@ p{
     box-shadow: 5px 4px 20px dimgray;
     border-radius: 30px;
 }
+.box h2{
+    padding-bottom: 10px;
+    border-bottom: 1px dotted #D51E24;
+}
 .box img{
     display: block;
     height: 220px;
     border-radius: 10px;
 }
-.button_profile{
+.another_button{
     padding: 8px 40px;
     background-image: linear-gradient(to right,#D51E24,#EB6076);
     font-size: 16px;
     font-weight: 600;
     text-decoration: none;
-    color: black;
+    color: white;
     border-radius: 25px;
     box-shadow: 4px 4px 16px #D51E24;
 }
