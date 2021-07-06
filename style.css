@@ -119,5 +119,7 @@ p{
 #footer_section{
     background-color: #FDEAEC;
     text-align: center;
-    padding: 3%;
+}
+.extra_padding{
+    padding: 5%;
 }
