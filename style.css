@@ -17,7 +17,7 @@ p{
     margin: 0 auto;
 }
 #header_area{
-    margin: 5% 0;
+    margin: 2% 0;
 }
 .flexiable_container{
     display: flex;
@@ -115,4 +115,9 @@ p{
 .count_box{
     width: 30%;
     text-align: center;
+}
+#footer_section{
+    background-color: #FDEAEC;
+    text-align: center;
+    padding: 3%;
 }
