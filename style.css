@@ -47,17 +47,35 @@ p{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#recipies_area{
+    margin: 5% 0;
+}
 .top_area{
     text-align: center;
     padding-bottom: 40px;
 }
-.food_item_boxes{
+.the_boxes{
     display: flex;
 }
-.food_item{
+.box{
     width: 31%;
     margin: 0 20px ;
     padding: 20px;
     box-shadow: 5px 4px 20px dimgray;
     border-radius: 30px;
+}
+.box img{
+    display: block;
+    height: 250px;
+    border-radius: 10px;
+}
+.button_profile{
+    padding: 10px 40px;
+    background-image: linear-gradient(to right,#D51E24,#EB6076);
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    border-radius: 25px;
+    box-shadow: 4px 4px 16px #D51E24;
 }
